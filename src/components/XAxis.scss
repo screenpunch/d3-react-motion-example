@@ -1,0 +1,13 @@
+@import "bootstrap-variables.scss";
+
+.XAxis {
+	font-size: 14px;
+
+	text {
+		fill: $text-color;
+	}
+
+	line, .domain {
+		stroke: $gray-dark;
+	}
+}

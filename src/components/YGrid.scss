@@ -1,0 +1,20 @@
+@import "bootstrap-variables.scss";
+
+.YGrid {
+
+	.domain {
+		stroke: $gray-lighter;
+	}
+
+	.tick {
+		line {
+			stroke-width: 1;
+			stroke: $gray-lighter;
+			shape-rendering: crispEdges;
+		}
+
+		.zero-line {
+			stroke: #dc322f;
+		}
+	}
+}
