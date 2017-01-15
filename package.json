@@ -1,7 +1,8 @@
 {
   "name": "d3-react-motion-example",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://screenpunch.github.io/d3-react-motion-example",
   "devDependencies": {
     "react-scripts-ts": "1.0.4"
   },
